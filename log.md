@@ -2,7 +2,7 @@
 
 ### Day 1: February 27, 2024 
 
-**Today's Progress**: Completed the first course in FCC's Responsive Web Design, which was "Learn HTML by building a Cat Photo App
+**Today's Progress**: Completed the first course in FCC's Responsive Web Design, which was "Learn HTML by building a Cat Photo App"
 
 **Thoughts:** I've already completed the HTML portion of TOP, so this was a nice refresher, and was pretty straightforward.
 
