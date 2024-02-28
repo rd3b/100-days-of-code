@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 27, 2024 
+### Day 1: February 27, 2024
 
 **Today's Progress**: Completed the first course in FCC's Responsive Web Design, which was "Learn HTML by building a Cat Photo App".
 
@@ -8,14 +8,13 @@
 
 **Link to work:** N/A
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: February 28, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Got about 80% of the way through the second course in FCC's Responsive Web Design, which deals with basic CSS.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Found this pretty straightfoward as I'd encountered a lot of this in TOP, looking forward to working with flex further on in the course as this is what I have struggled with in the past.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: N/A
 
 
 ### Day 1: June 27, Monday
